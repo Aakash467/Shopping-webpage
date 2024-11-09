@@ -1,0 +1,60 @@
+.main{
+    border: 2px solid black;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top:9%;
+    text-align: center;
+    height: 20%;
+    border-radius: 10px;
+}
+#login{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    padding-top: 20px;
+}
+.input{
+    margin-top: 25px;
+    border-radius: 6px;
+}
+.btn{
+    height: 36px;
+    width: 88px;
+    background-color: green;
+    color: aliceblue;
+    cursor: pointer;
+    margin-top:25px  ;
+    font-size: 20px;
+    border:0;
+    border-radius: 5px;
+}
+#quantity{
+    height:30px;
+}
+.btnn{
+    height: 36px;
+    width: 250px;
+    background-color: green;
+    color: aliceblue;
+    cursor: pointer;
+    margin-top:25px  ;
+    font-size: 20px;
+    border:0;
+    border-radius: 5px;
+}
+#purchase{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    padding-top: 20px;
+}
+.para{
+    padding: 5px;
+    font-size: 20px;
+}
+#username{
+    height: 30px;
+}
+#pass{
+    height: 30px
+}

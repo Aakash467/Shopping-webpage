@@ -1,0 +1,41 @@
+.main{
+    border: 2px solid black;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top:9%;
+    text-align: center;
+    height: 20%;
+    border-radius: 10px;
+}
+#registration{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    padding-top: 20px;
+}
+#name{
+    height: 30px;
+    margin-top: 25px;
+    border-radius: 6px;
+}
+.input{
+    margin-top: 25px;
+    border-radius: 6px;
+}
+.btn{
+    height: 36px;
+    width: 88px;
+    background-color: green;
+    color: aliceblue;
+    cursor: pointer;
+    margin-top:25px  ;
+    font-size: 20px;
+    border:0;
+    border-radius: 5px;
+}
+#email{
+    height: 30px;
+}
+#pass{
+    height: 30px;
+}

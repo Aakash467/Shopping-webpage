@@ -1,0 +1,128 @@
+.mylist1 {
+    border: 1px solid black;
+    height: 50px;
+    background-color: black;
+    color: aliceblue;
+    margin: -8px;
+}
+
+.item1 {
+    list-style-type: none;
+    float: left;
+    padding: 10px;
+}
+
+.item1:hover {
+    border: 2px solid white;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+#litype4 {
+    margin-left: 20px;
+    font-size: 31px;
+    padding: 4px;
+}
+
+#litype4:hover {
+    border: 0px;
+}
+
+#litype1 {
+    margin-left: 49px;
+    font-size: 20px;
+}
+
+#litype2 {
+    margin-left: 222px;
+    font-size: 20px;
+}
+
+#litype3 {
+    margin-left: 22px;
+    float: right;
+    margin-right: 20px;
+    font-size: 20px;
+}
+
+#cat {
+    border: none;
+    font-size: 20px;
+    background-color: black;
+    color: aliceblue;
+}
+
+.greeting{
+    border: 1px solid grey;
+    background-color: grey;
+    height: 200px;
+    margin: -8px;
+    margin-top: 41px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.paragraph{
+
+    padding-top: 30px;
+}
+.saman {
+    display: flex;
+    /* border: 1px solid black; */
+    margin-top: 10px;
+    flex-wrap: wrap;
+    
+}
+
+.item2 {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 565px;
+    height:240px;
+    margin-top: 35px;
+    margin-left: 30px;
+    display:flex;
+}
+.item2:hover{
+    background-color: rgb(62, 60, 60);
+    color: white;
+}
+.pendrive{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.penimg{
+    width: 75%;
+    height: 100%;
+    border-radius: 9px;
+}
+.footer1{
+    background-color: rgb(62, 60, 60);
+    color: white;
+    text-align: center;
+    padding: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: -9px;
+    margin-top: 23px;
+    display: block;
+    font-size: large;
+}
+.footer2{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: -9px;
+    margin-top: -8px;
+    padding: 4px;
+}
+#btn{
+    color: white;
+    background-color: rgb(3, 99, 40);
+    border: 0px;
+    cursor: pointer;
+    height: 29px;
+    width: 66px;
+    font-size: 18px;
+    border-radius: 3px;
+}
